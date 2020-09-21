@@ -25,6 +25,7 @@ Education
 Distributed Systems, Database Systems, Operating Systems, Cryptography, Intensive Program Design<br>
 Data Science, Social Network Analysis, Machine Learning, Language Modelling, Intelligent Systems
 <strong>Lab</strong>: Database Systems and Security Research Lab
+-----
 
 **Bachelor's of Engineering (BE HONS) in Computer Science & Engineering, Rajiv Gandhi Proudyogiki Vishwavidyalaya**
 #### Aug 2015 - Jun 2019 
@@ -32,7 +33,7 @@ Data Science, Social Network Analysis, Machine Learning, Language Modelling, Int
 <strong>CGPA: </strong> 8.63/10.0 <br>
 <strong>Relevant Coursework: </strong>
 Algorithms, Data Structures, Cloud Computing, Object Oriented Design, Software Development Life Cycle
-
+-----
 
 Experience
 -----
@@ -42,8 +43,10 @@ Experience
 -----
 I am part of Database systems research group here at Northwestern, working towards creating secure querying over federated databases. My key responsibilities included developing and testing secure aggregate functionality, generating and deploying build pipleines using docker, among others.
 **Advisors:** [Prof. Jennie Rogers](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rogers-jennie.html), Co-Advisor [Prof. Xiao Wang](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wang-xiao.html) 
+-----
 
 **Quantitative Developer/Backend Intern, Practicum LLC**
 #### Jul 2020 - Sept 2020
 -----
-I worked as an algorithm developer realizing financial trading formuale and techniques in Python code in Jupyter Lab for the first half of the internship. The latter half comprised of developing backend using Flask, JSON and MySQL to work seemlessly with the pre-designed front end.
+I worked as an algorithm developer realizing financial trading formuale and techniques in Python code in Jupyter Lab for the first half of the internship. The latter half comprised of developing backend using Flask, JSON and MySQL to work seemlessly with the pre-designed front end. By the end of this internship, my team was able to successfully create a platform for novice quant traders to learn and use algorithms with real-time stock data.
+-----
