@@ -18,7 +18,7 @@ Having previously collaborated on large codebases through my prior projects, I'v
 
 Education
 -----
-<img align="left" height="100" width="160" src="../images/nu_full.png" style="padding-right:15px">
+<img align="left" height="140" width="220" src="../images/nu_full.png" style="padding-right:15px">
 **Master's of Science (M.S.) <br>Computer Science**
 #### Northwestern University, Evanston (IL)<br>Sep 2019 - Dec 2020 (expected Graduation)
 -----
