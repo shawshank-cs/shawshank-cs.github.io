@@ -44,17 +44,15 @@ Experience
 -----
 <img align="left" height="100" width="320" src="../images/nu.png" style="padding-right:15px">
 **Graduate Research Assistant**
-### Northwestern University
-#### Jan 2020 - Present
+### Northwestern University <br> Jan 2020 - Present
 -----
-I am part of Database systems research group here at Northwestern, working towards creating secure querying over federated databases. My key responsibilities included developing and testing secure aggregate functionality, generating and deploying build pipleines using docker, among others.
+I am part of Database systems research group here at Northwestern, working towards creating secure querying over federated databases. My key responsibilities included developing and testing secure aggregate functionality, generating and deploying build pipleines using docker, among others.<br>
 **Advisors:** [Prof. Jennie Rogers](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rogers-jennie.html), Co-Advisor [Prof. Xiao Wang](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wang-xiao.html) 
 
 -----
 <img align="left" height="150" width="150" src="../images/practicum.png" style="padding-right:15px">
 **Quantitative Developer/Backend Intern**
-### Practicum LLC
-#### Jul 2020 - Sept 2020
+### Practicum LLC <br> Jul 2020 - Sept 2020
 -----
 I worked as an algorithm developer realizing financial trading formuale and techniques in Python code in Jupyter Lab for the first half of the internship. The latter half comprised of developing backend using Flask, JSON and MySQL to work seemlessly with the pre-designed front end. By the end of this internship, my team was able to successfully create a platform for novice quant traders to learn and use algorithms with real-time stock data.
 -----
