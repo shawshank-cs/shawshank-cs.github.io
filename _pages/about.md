@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 ------
-I am a second year Master's student, majoring in Computer Science from [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/), working on developing secure-MPC Databases as a part of [Prof. Jennie Rogers'](http://users.eecs.northwestern.edu/~jennie/) research group. I am currently working in the capacity of a Graduate Research Assistant in the NSF-funded private data federation project: VaultDB, in collaboration with the [CAPriCORN initiative](https://www.capricorncdrn.org/), which is slated to be deployed on 5 major hospitals in the Chicagoland area. I completed my Bachelor's of Engineering (with HONORS) degree in Computer Science & Engineering from Rajiv Gandhi Technological Institute, India.<br>My primary research domain comprises of <strong>Database Systems</strong> and <strong>Data Science</strong>.
+I am a second year Master's student, majoring in Computer Science from [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/), working on developing secure-MPC Databases as a part of [Prof. Jennie Rogers'](http://users.eecs.northwestern.edu/~jennie/) research group. I am currently working in the capacity of a Graduate Research Assistant in the NSF-funded private data federation project: VaultDB, in collaboration with the [CAPriCORN initiative](https://www.capricorncdrn.org/), which is slated to be deployed on 5 major hospitals in the Chicagoland area. I completed my Bachelor's of Engineering (with HONORS) degree in Computer Science & Engineering from Rajiv Gandhi Technological Institute, India.
+
+My primary research domain comprises of <strong>Database Systems</strong> and <strong>Data Science</strong>.
 
 I aim to contribute to developing massively distributed cloud database systems which can span the limitations of physical storage and proximity. Besides that, my summer of 2020 was spent developing a quantitative trading platform for Practicum LLC, through which I gained in-depth knowledge of web developement, financial market paradigms, and also got a chance to develop statisticlaly proven algortihms for first-time quant traders to experiment with.
 
@@ -16,14 +18,14 @@ Having previously collaborated on large codebases through my prior projects, I'v
 
 Education
 -----
-<img align="left" height="125" width="400" src="../images/nu.png" style="padding-right:15px">
+<img align="left" height="120" width="375" src="../images/nu_full.png" style="padding-right:15px">
 **Master's of Science (MS) <br>Computer Science**
 #### Northwestern University<br>Sep 2019 - Dec 2020 (expected Graduation)
 -----
 <strong>GPA: </strong> 3.91/4.0 <br>
 <strong>Relevant Coursework: </strong>
-Distributed Systems, Database Systems, Operating Systems, Cryptography, Intensive Program Design<br>
-Data Science, Social Network Analysis, Machine Learning, Language Modelling, Intelligent Systems
+Distributed Systems, Database Systems, Operating Systems, Cryptography, Intensive Program Design
+Data Science, Social Network Analysis, Machine Learning, Language Modelling, Intelligent Systems<br>
 <strong>Lab</strong>: Database Systems and Security Research Lab
 
 -----
@@ -34,7 +36,7 @@ Data Science, Social Network Analysis, Machine Learning, Language Modelling, Int
 <strong>CGPA: </strong> 8.63/10.0 <br>
 <strong>Relevant Coursework: </strong>
 Algorithms, Data Structures, Cloud Computing, Object Oriented Design, Software Development Life Cycle <br>
-<strong>Accolades:</strong><br>
+<strong>Accolades:</strong>
 * *Finalist* - Smart India Hackathon, 2019 (Software Edition)<br>
 * *Winner* - Wireless Robotics Competition, IIT - Kanpur (Zonal Round)
 
@@ -42,7 +44,7 @@ Algorithms, Data Structures, Cloud Computing, Object Oriented Design, Software D
 
 Experience
 -----
-<img align="left" height="125" width="400" src="../images/nu.png" style="padding-right:15px">
+<img align="left" height="120" width="375" src="../images/nu.png" style="padding-right:15px">
 **Graduate Research Assistant,<br><br>Northwestern University**
 #### Jan 2020 - Present
 -----
