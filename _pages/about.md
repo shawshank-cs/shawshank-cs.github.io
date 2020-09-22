@@ -16,11 +16,9 @@ Having previously collaborated on large codebases through my prior projects, I'v
 
 Education
 -----
-<img align="left" height="100" width="320" src="../images/nu.png" style="padding-right:15px">
-**Master's of Science (MS)**
-### Computer Science
-#### Northwestern University
-#### Sep 2019 - Dec 2020 (expected Graduation)
+<img align="left" height="125" width="400" src="../images/nu.png" style="padding-right:15px">
+**Master's of Science (MS) <br>Computer Science**
+#### Northwestern University<br>Sep 2019 - Dec 2020 (expected Graduation)
 -----
 <strong>GPA: </strong> 3.91/4.0 <br>
 <strong>Relevant Coursework: </strong>
@@ -30,10 +28,8 @@ Data Science, Social Network Analysis, Machine Learning, Language Modelling, Int
 
 -----
 <img align="left" height="150" width="150" src="../images/rgpv.png" style="padding-right:15px">
-**Bachelor's of Engineering (BE HONS)**
-### Computer Science & Engineering
-#### Rajiv Gandhi Proudyogiki Vishwavidyalaya
-#### Aug 2015 - Jun 2019 
+**Bachelor's of Engineering (BE HONS)<br>Computer Science & Engineering**
+#### Rajiv Gandhi Proudyogiki Vishwavidyalaya<br>Aug 2015 - Jun 2019 
 -----
 <strong>CGPA: </strong> 8.63/10.0 <br>
 <strong>Relevant Coursework: </strong>
@@ -42,7 +38,7 @@ Algorithms, Data Structures, Cloud Computing, Object Oriented Design, Software D
 
 Experience
 -----
-<img align="left" height="100" width="320" src="../images/nu.png" style="padding-right:15px">
+<img align="left" height="125" width="400" src="../images/nu.png" style="padding-right:15px">
 **Graduate Research Assistant,<br><br>Northwestern University**
 #### Jan 2020 - Present
 -----
