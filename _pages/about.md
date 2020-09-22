@@ -18,14 +18,13 @@ Having previously collaborated on large codebases through my prior projects, I'v
 
 Education
 -----
-<img align="left" height="140" width="140" src="../images/nu_seal.png" style="padding-right:15px">
+<img align="left" height="120" width="375" src="../images/nu_full.png" style="padding-right:15px">
 **Master's of Science (MS) <br>Computer Science**
 #### Northwestern University, Evanston (IL)<br>Sep 2019 - Dec 2020 (expected Graduation)
 -----
 <strong>GPA: </strong> 3.91/4.0 <br>
 <strong>Relevant Coursework: </strong>
-Distributed Systems, Database Systems, Operating Systems, Cryptography, Intensive Program Design
-Data Science, Social Network Analysis, Machine Learning, Language Modelling, Intelligent Systems<br>
+Distributed Systems, Database Systems, Operating Systems, Cryptography, Intensive Program Design, Data Science, Social Network Analysis, Machine Learning Foundations, Statistical Language Modelling, Intelligent Information Systems<br>
 <strong>Lab</strong>: Database Systems and Security Research Lab
 
 -----
@@ -42,11 +41,11 @@ Algorithms, Data Structures, Cloud Computing, Object Oriented Design, Software D
 
 Experience
 -----
-<img align="left" height="120" width="375" src="../images/nu.png" style="padding-right:15px">
+<img align="left" height="125" width="400" src="../images/nu.png" style="padding-right:15px">
 **Graduate Research Assistant<br><br>Northwestern University**
 #### Evanston, Illinois<br>Jan 2020 - Present
 -----
-I am part of Database systems research group here at Northwestern, working towards creating secure querying over federated databases (provided by [HealthLNK](https://www.healthinformationforall.org/project/healthlnk/)). My key responsibilities included developing and testing secure aggregate functionality, generating and deploying build pipleines using docker, among others.<br>
+I am part of the Database systems research group here at Northwestern, working towards creating secure querying over federated databases (provided by [HealthLNK](https://www.healthinformationforall.org/project/healthlnk/)). My key responsibilities included developing and testing secure aggregate functionality, generating and deploying build pipleines using docker, among others.<br>
 **Advisors:** [Prof. Jennie Rogers](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rogers-jennie.html), [Prof. Xiao Wang](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wang-xiao.html) (Co-Advisor)
 
 -----
