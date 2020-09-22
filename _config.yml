@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shashank Satish Damodaran"
+title                    : "Shashank Satish"
 title_separator          : "-"
-name                     : &name "Shashank Satish"
-description              : &description "Master's in Computer Science at Northwestern University"
+name                     : &name "Shashank Satish Damodaran"
+description              : &description "Master's in Computer Science student at Northwestern University"
 url                      : https://shawshank-cs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "shawshank-cs/shawshank-cs.github.io"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/shashank-satish-d/"
+  linkedin         : "shashank-satish-d"
   orcid            : "http://orcid.org/0000-0002-1298-2502"
   pinterest        :
   soundcloud       :

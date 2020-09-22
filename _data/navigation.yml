@@ -3,18 +3,10 @@ main:
 
   - title: "Projects"
     url: /projects/
-
-  - title: "Work Experience"
-    url: /work-ex/        
-    
-  - title: "Portfolio"
-    url: /portfolio/
         
   - title: "Publications"
     url: /publications/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
+  - title: "Resume"
+    url: /files/Resume.pdf
+

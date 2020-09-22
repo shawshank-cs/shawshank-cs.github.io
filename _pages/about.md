@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 ------
-I am Master's in Computer Science student at [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/), working on developing secure-MPC Databases as a part of [Prof. Jennie Rogers'](http://users.eecs.northwestern.edu/~jennie/) research group. I am currently working in the capacity of a Graduate Research Assistant in the NSF-funded project: VaultDB, which is slated to be deployed on 5 of the major hospitals in Chicagoland area. I completed my Bachelor's of Engineering (with HONORS) degree in Computer Science & Engineering from Bhopal, India. My primary research domain comprises of Database Systems and Data Science.
+I am a second year Master's student, majoring in Computer Science from [Northwestern University](https://www.mccormick.northwestern.edu/computer-science/), working on developing secure-MPC Databases as a part of [Prof. Jennie Rogers'](http://users.eecs.northwestern.edu/~jennie/) research group. I am currently working in the capacity of a Graduate Research Assistant in the NSF-funded private data federation project: VaultDB, in collaboration with the [CAPriCORN initiative](https://www.capricorncdrn.org/), which is slated to be deployed on 5 major hospitals in the Chicagoland area. I completed my Bachelor's of Engineering (with HONORS) degree in Computer Science & Engineering from Rajiv Gandhi Technological Institute, India.<br>My primary research domain comprises of <strong>Database Systems</strong> and <strong>Data Science</strong>.
 
 I aim to contribute to developing massively distributed cloud database systems which can span the limitations of physical storage and proximity. Besides that, my summer of 2020 was spent developing a quantitative trading platform for Practicum LLC, through which I gained in-depth knowledge of web developement, financial market paradigms, and also got a chance to develop statisticlaly proven algortihms for first-time quant traders to experiment with.
 
@@ -27,13 +27,17 @@ Data Science, Social Network Analysis, Machine Learning, Language Modelling, Int
 <strong>Lab</strong>: Database Systems and Security Research Lab
 
 -----
-<img align="left" height="150" width="150" src="../images/rgpv.png" style="padding-right:15px">
+<img align="left" height="140" width="140" src="../images/rgpv.png" style="padding-right:15px">
 **Bachelor's of Engineering (BE HONS)<br>Computer Science & Engineering**
 #### Rajiv Gandhi Proudyogiki Vishwavidyalaya<br>Aug 2015 - Jun 2019 
 -----
 <strong>CGPA: </strong> 8.63/10.0 <br>
 <strong>Relevant Coursework: </strong>
-Algorithms, Data Structures, Cloud Computing, Object Oriented Design, Software Development Life Cycle
+Algorithms, Data Structures, Cloud Computing, Object Oriented Design, Software Development Life Cycle <br>
+<strong>Accolades:</strong><br>
+* *Finalist* - Smart India Hackathon, 2019 (Software Edition)<br>
+* *Winner* - Wireless Robotics Competition, IIT - Kanpur (Zonal Round)
+
 -----
 
 Experience
@@ -42,13 +46,14 @@ Experience
 **Graduate Research Assistant,<br><br>Northwestern University**
 #### Jan 2020 - Present
 -----
-I am part of Database systems research group here at Northwestern, working towards creating secure querying over federated databases. My key responsibilities included developing and testing secure aggregate functionality, generating and deploying build pipleines using docker, among others.<br>
-**Advisors:** [Prof. Jennie Rogers](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rogers-jennie.html), Co-Advisor [Prof. Xiao Wang](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wang-xiao.html) 
+I am part of Database systems research group here at Northwestern, working towards creating secure querying over federated databases (provided by [HealthLNK](https://www.healthinformationforall.org/project/healthlnk/)). My key responsibilities included developing and testing secure aggregate functionality, generating and deploying build pipleines using docker, among others.<br>
+**Advisors:** [Prof. Jennie Rogers](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rogers-jennie.html), [Prof. Xiao Wang](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wang-xiao.html) (Co-Advisor)
 
 -----
-<img align="left" height="150" width="150" src="../images/practicum.png" style="padding-right:15px">
+<img align="left" height="140" width="140" src="../images/practicum.png" style="padding-right:15px">
 **Quantitative Developer/Backend Intern<br><br>Practicum LLC**
 #### Jul 2020 - Sept 2020
 -----
 I worked as an algorithm developer realizing financial trading formuale and techniques in Python code in Jupyter Lab for the first half of the internship. The latter half comprised of developing backend using Flask, JSON and MySQL to work seemlessly with the pre-designed front end. By the end of this internship, my team was able to successfully create a platform for novice quant traders to learn and use algorithms with real-time stock data.
+
 -----
