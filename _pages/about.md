@@ -16,7 +16,7 @@ Having previously collaborated on large codebases through my prior projects, I'v
 
 Education
 -----
-<img-align="left" height="100" width="320" src="../images/logos/nu.png" style="padding-right:15px">
+<img align="left" height="100" width="320" src="../images/logos/nu.png" style="padding-right:15px">
 **Master's of Science (MS) in Computer Science, Northwestern University**
 #### Sep 2019 - Dec 2020 (expected Graduation)
 -----
@@ -27,7 +27,7 @@ Data Science, Social Network Analysis, Machine Learning, Language Modelling, Int
 <strong>Lab</strong>: Database Systems and Security Research Lab
 
 -----
-<img-align="left" height="150" width="150" src="../images/logos/rgpv.png" style="padding-right:15px">
+<img align="left" height="150" width="150" src="../images/logos/rgpv.png" style="padding-right:15px">
 **Bachelor's of Engineering (BE HONS) in Computer Science & Engineering, Rajiv Gandhi Proudyogiki Vishwavidyalaya**
 #### Aug 2015 - Jun 2019 
 -----
@@ -38,7 +38,7 @@ Algorithms, Data Structures, Cloud Computing, Object Oriented Design, Software D
 
 Experience
 -----
-<img-align="left" height="100" width="320" src="../images/logos/nu.png" style="padding-right:15px">
+<img align="left" height="100" width="320" src="../images/logos/nu.png" style="padding-right:15px">
 **Graduate Research Assisstant, Northwestern University**
 #### Jan 2020 - Present
 -----
@@ -46,7 +46,7 @@ I am part of Database systems research group here at Northwestern, working towar
 **Advisors:** [Prof. Jennie Rogers](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rogers-jennie.html), Co-Advisor [Prof. Xiao Wang](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wang-xiao.html) 
 
 -----
-<img-align="left" height="150" width="150" src="../images/logos/nu.png" style="padding-right:15px">
+<img align="left" height="150" width="150" src="../images/logos/nu.png" style="padding-right:15px">
 **Quantitative Developer/Backend Intern, Practicum LLC**
 #### Jul 2020 - Sept 2020
 -----
