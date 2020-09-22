@@ -36,9 +36,7 @@ Data Science, Social Network Analysis, Machine Learning, Language Modelling, Int
 <strong>CGPA: </strong> 8.63/10.0 <br>
 <strong>Relevant Coursework: </strong>
 Algorithms, Data Structures, Cloud Computing, Object Oriented Design, Software Development Life Cycle <br>
-<strong>Accolades:</strong>
-* *Finalist* - Smart India Hackathon, 2019 (Software Edition)<br>
-* *Winner* - Wireless Robotics Competition, IIT - Kanpur (Zonal Round)
+<strong>Accolades:</strong> <br>* *Finalist* - Smart India Hackathon, 2019 (Software Edition)<br> * *Winner* - Wireless Robotics Competition, IIT - Kanpur (Zonal Round)
 
 -----
 
