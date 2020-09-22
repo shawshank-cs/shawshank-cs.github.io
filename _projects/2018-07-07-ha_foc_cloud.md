@@ -6,6 +6,6 @@ description: Managed data-center virtualization on VMWare Workstation cluster fo
 viewable: false
 gitlink: 
 from: May 2018
-to: July 2020 
+to: July 2018 
 date: 2018-07-07
 ---
