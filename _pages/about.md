@@ -18,8 +18,8 @@ Having previously collaborated on large codebases through my prior projects, I'v
 
 Education
 -----
-<img align="left" height="120" width="375" src="../images/nu_full.png" style="padding-right:15px">
-**Master's of Science (MS) <br>Computer Science**
+<img align="left" height="100" width="160" src="../images/nu_full.png" style="padding-right:15px">
+**Master's of Science (M.S.) <br>Computer Science**
 #### Northwestern University, Evanston (IL)<br>Sep 2019 - Dec 2020 (expected Graduation)
 -----
 <strong>GPA: </strong> 3.91/4.0 <br>
@@ -29,7 +29,7 @@ Distributed Systems, Database Systems, Operating Systems, Cryptography, Intensiv
 
 -----
 <img align="left" height="140" width="140" src="../images/rgpv.png" style="padding-right:15px">
-**Bachelor's of Engineering (BE HONS)<br>Computer Science & Engineering**
+**Bachelor's of Engineering (B.E. HONS)<br>Computer Science & Engineering**
 #### Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal (India)<br>Aug 2015 - Jun 2019 
 -----
 <strong>CGPA: </strong> 8.63/10.0 <br>
@@ -42,7 +42,7 @@ Algorithms, Data Structures, Cloud Computing, Object Oriented Design, Software D
 Experience
 -----
 <img align="left" height="125" width="400" src="../images/nu.png" style="padding-right:15px">
-**Graduate Research Assistant<br><br>Northwestern University**
+**Graduate Research Assistant<br>Northwestern University**
 #### Evanston, Illinois<br>Jan 2020 - Present
 -----
 I am part of the Database systems research group here at Northwestern, working towards creating secure querying over federated databases (provided by [HealthLNK](https://www.healthinformationforall.org/project/healthlnk/)). My key responsibilities included developing and testing secure aggregate functionality, generating and deploying build pipleines using docker, among others.<br>
@@ -50,7 +50,7 @@ I am part of the Database systems research group here at Northwestern, working t
 
 -----
 <img align="left" height="140" width="140" src="../images/practicum.png" style="padding-right:15px">
-**Quantitative Developer/Backend Intern<br><br>Practicum LLC**
+**Quantitative Developer/Backend Intern<br>Practicum LLC**
 #### St. Louis, Missouri (Remote)<br>Jul 2020 - Sept 2020
 -----
 I worked as an algorithm developer realizing financial trading formuale and techniques in Python code in Jupyter Lab for the first half of the internship. The latter half comprised of developing backend using Flask, JSON and MySQL to work seemlessly with the pre-designed front end. By the end of this internship, my team was able to successfully create a platform for novice quant traders to learn and use algorithms with real-time stock data.
