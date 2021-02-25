@@ -15,7 +15,7 @@ My primary research domain comprises of <strong>Database Systems</strong> and <s
 
 Having previously worked with large codebases through my prior projects, I've developed a thorough understanding of fairly advanced concepts in programming, data structures, and algorithms, with <u>JAVA</u> being my core programming language. I was part of a team that developed a quantitative trading platform for a student-startup, through which I gained an in-depth knowledge of backend developement and financial market paradigms. Besides that, I've developed and deployed scalable Distributed Systems, and have an extensive project roster encompassing web development, systems design, data science, networks and people analytics.
 
-<strong>I have an ardent desire work at the intersection of Cloud and Databases to push the boundaries of their individual existing systems. 
+<strong>I have an ardent desire to work at the intersection of Cloud and Databases to push the boundaries of their individual existing systems. 
 I aim to contribute to developing massively distributed cloud database systems which can span the limitations of physical storage and proximity.</strong> 
 
 Experience
