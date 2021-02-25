@@ -41,7 +41,7 @@ Algorithms, Data Structures, Cloud Computing, Object Oriented Design, Software D
 
 Experience
 -----
-<img align="left" height="150" width="150" src="../images/n3.png" style="padding-right:15px">
+<img align="left" height="150" width="150" src="../images/n3.jpg" style="padding-right:15px">
 **Quantitative Data Analyst<br>Institute for Policy Research (N3 Lab)**
 #### Evanston, Illinois<br>Dec 2020 - Present
 -----
@@ -50,7 +50,7 @@ I am working on an active social policy research study at the [Northwestern Neig
 
 -----
 
-<img align="left" height="125" width="400" src="../images/n3." style="padding-right:15px">
+<img align="left" height="125" width="400" src="../images/nu.png" style="padding-right:15px">
 **Graduate Research Assistant<br>Northwestern University**
 #### Evanston, Illinois<br>Jan 2020 - Present
 -----
