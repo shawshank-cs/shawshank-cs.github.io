@@ -18,29 +18,6 @@ Having previously collaborated on large codebases through my prior projects, I'v
 <strong>I have an ardent desire work at the intersection of Cloud and Databases to push the boundaries of their individual existing systems. 
 I aim to contribute to developing massively distributed cloud database systems which can span the limitations of physical storage and proximity.</strong> 
 
-Education
------
-<img align="left" height="140" width="220" src="../images/nu_full.png" style="padding-right:15px">
-**Master's of Science (M.S.) <br>Computer Science**
-#### Northwestern University, Evanston (IL)<br>Sep 2019 - Mar 2021 (expected)
------
-<strong>GPA: </strong> 3.827/4.0 <br>
-<strong>Relevant Coursework: </strong>
-Distributed Systems, Database Systems, Operating Systems, Intensive Program Design, Data Science, Social Network Analysis, Machine Learning Foundations, Statistical Language Modelling, Intelligent Information Systems<br>
-<strong>Labs</strong>: Database Systems and Security Research Lab, Northwestern Neighborhood and Network Initiative
-
------
-<img align="left" height="140" width="140" src="../images/rgpv.png" style="padding-right:15px">
-**Bachelor's of Engineering (B.E. HONS)<br>Computer Science & Engineering**
-#### Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal (India)<br>Aug 2015 - Jun 2019 
------
-<strong>CGPA: </strong> 8.63/10.0 <br>
-<strong>Relevant Coursework: </strong>
-Algorithms, Data Structures, Cloud Computing, Object Oriented Design, Software Development Life Cycle <br>
-<strong>Accolades:</strong> <br>* *Finalist* - Smart India Hackathon, 2019 (Software Edition)<br> * *Winner* - Wireless Robotics Competition, IIT - Kanpur (Zonal Round)
-
------
-
 Experience
 -----
 <img align="left" height="150" width="150" src="../images/n3.jpg" style="padding-right:15px">
@@ -65,5 +42,28 @@ I am part of the Database systems research group at Northwestern, working toward
 #### St. Louis, Missouri (Remote)<br>Jun 2020 - Aug 2020
 -----
 I spent summer of 2020 working as a backend developer. I conceptualized a solid schema design with future scalability in mind, and engineered it through endpoints in Flask, using JSON and MySQL to work seemlessly with the Figma-designed front end.<br>The latter half comprised of realizing financial trading methodologies to Python code, where I led the translation of trading strategies like Statistical Arbitrage and Mean Reversion as a part-time quant developer. These were back-tested on 5 years of daily trade data from YahooFinance API resulting in gains of up to 5.76% over the naive approach.<br>By the end of this internship, my team and I were able to successfully create a quant trading platform for first-time investors to learn market strategies and apply them using pre-coded algorithms on S&P 500 stocks (paper trade) in real-time.
+
+-----
+
+Education
+-----
+<img align="left" height="140" width="220" src="../images/nu_full.png" style="padding-right:15px">
+**Master's of Science (M.S.) <br>Computer Science**
+#### Northwestern University, Evanston (IL)<br>Sep 2019 - Mar 2021 (expected)
+-----
+<strong>GPA: </strong> 3.827/4.0 <br>
+<strong>Relevant Coursework: </strong>
+Distributed Systems, Database Systems, Operating Systems, Intensive Program Design, Data Science, Social Network Analysis, Machine Learning Foundations, Statistical Language Modelling, Intelligent Information Systems<br>
+<strong>Labs</strong>: Database Systems and Security Research Lab, Northwestern Neighborhood and Network Initiative
+
+-----
+<img align="left" height="140" width="140" src="../images/rgpv.png" style="padding-right:15px">
+**Bachelor's of Engineering (B.E. HONS)<br>Computer Science & Engineering**
+#### Rajiv Gandhi Proudyogiki Vishwavidyalaya, Bhopal (India)<br>Aug 2015 - Jun 2019 
+-----
+<strong>CGPA: </strong> 8.63/10.0 <br>
+<strong>Relevant Coursework: </strong>
+Algorithms, Data Structures, Cloud Computing, Object Oriented Design, Software Development Life Cycle <br>
+<strong>Accolades:</strong> <br>* *Finalist* - Smart India Hackathon, 2019 (Software Edition)<br> * *Winner* - Wireless Robotics Competition, IIT - Kanpur (Zonal Round)
 
 -----
