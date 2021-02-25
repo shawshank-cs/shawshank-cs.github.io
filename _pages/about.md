@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Hi, I'm Shashank!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -20,12 +20,12 @@ Education
 -----
 <img align="left" height="140" width="220" src="../images/nu_full.png" style="padding-right:15px">
 **Master's of Science (M.S.) <br>Computer Science**
-#### Northwestern University, Evanston (IL)<br>Sep 2019 - Dec 2020 (expected Graduation)
+#### Northwestern University, Evanston (IL)<br>Sep 2019 - Mar 2021 (expected)
 -----
-<strong>GPA: </strong> 3.91/4.0 <br>
+<strong>GPA: </strong> 3.827/4.0 <br>
 <strong>Relevant Coursework: </strong>
-Distributed Systems, Database Systems, Operating Systems, Cryptography, Intensive Program Design, Data Science, Social Network Analysis, Machine Learning Foundations, Statistical Language Modelling, Intelligent Information Systems<br>
-<strong>Lab</strong>: Database Systems and Security Research Lab
+Distributed Systems, Database Systems, Operating Systems, Intensive Program Design, Data Science, Social Network Analysis, Machine Learning Foundations, Statistical Language Modelling, Intelligent Information Systems<br>
+<strong>Labs</strong>: Database Systems and Security Research Lab, Northwestern Neighborhood and Network Initiative
 
 -----
 <img align="left" height="140" width="140" src="../images/rgpv.png" style="padding-right:15px">
@@ -41,18 +41,27 @@ Algorithms, Data Structures, Cloud Computing, Object Oriented Design, Software D
 
 Experience
 -----
-<img align="left" height="125" width="400" src="../images/nu.png" style="padding-right:15px">
+<img align="left" height="150" width="150" src="../images/n3.png" style="padding-right:15px">
+**Quantitative Data Analyst<br>Institute for Policy Research (N3 Lab)**
+#### Evanston, Illinois<br>Dec 2020 - Present
+-----
+I am working on an active social policy research study at the [Northwestern Neighborhood and Network (N3) Initiative](https://sites.northwestern.edu/n3lab/) where I modelled the co-evolution of the Chicago Police Department’s official assignment & attendance network data with 22 years’ worth of police misconduct data ([Invisible Institute's CPDP](https://invisible.institute/police-data)) to analyze the formation, evolution and cross-network dependence of officer ties. My primary role was to define and calibrate network boundaries after extensive cleaning and detailed exploratory analysis in GCP’s BigQuery engine. I also managed to identify the individual, organizational, and neighborhood factors responsible for burgeoning misconduct through police networks using the [Goldfish library](https://github.com/snlab-ch/goldfish) in R. I'm currently working on adding additional network dynamic effects, ones which aren't included out-of-the-box but are critical to our further analysis, and contributing them to this open-source library in C++.<br>
+**PI:** [Prof. Andy Papachristos](http://www.papachristos.org/about.html)
+
+-----
+
+<img align="left" height="125" width="400" src="../images/n3." style="padding-right:15px">
 **Graduate Research Assistant<br>Northwestern University**
 #### Evanston, Illinois<br>Jan 2020 - Present
 -----
-I am part of the Database systems research group here at Northwestern, working towards creating secure querying over federated databases (provided by [HealthLNK](https://www.healthinformationforall.org/project/healthlnk/)). My key responsibilities included developing and testing secure aggregate functionality, generating and deploying build pipleines using docker, among others.<br>
+I am part of the Database systems research group at Northwestern, working towards creating operators for securely querying federated databases (provided by [HealthLNK](https://www.healthinformationforall.org/project/healthlnk/)) for hospitals in Chicagoland, as part of a pilot project. My key responsibilities included:<br>1. Developing and Testing aggregate functionality in secure and plaintext settings.<br>2. Generating and deploying build pipleine for the ubuntu VMs in Docker with all necessary dependencies to run secure multi-party computation.<br>3. Query plan enumeration to incorporate operator reordering for the query optemizer using Apache Calcite's algebra, among others.<br>
 **Advisors:** [Prof. Jennie Rogers](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/rogers-jennie.html), [Prof. Xiao Wang](https://www.mccormick.northwestern.edu/research-faculty/directory/profiles/wang-xiao.html) (Co-Advisor)
 
 -----
 <img align="left" height="140" width="140" src="../images/practicum.png" style="padding-right:15px">
-**Quantitative Developer/Backend Intern<br>Practicum LLC**
-#### St. Louis, Missouri (Remote)<br>Jul 2020 - Sept 2020
+**Backend Engineering Intern/Quantitative Developer<br>Practicum LLC**
+#### St. Louis, Missouri (Remote)<br>Jun 2020 - Aug 2020
 -----
-I worked as an algorithm developer realizing financial trading formuale and techniques in Python code in Jupyter Lab for the first half of the internship. The latter half comprised of developing backend using Flask, JSON and MySQL to work seemlessly with the pre-designed front end. By the end of this internship, my team was able to successfully create a platform for novice quant traders to learn and use algorithms with real-time stock data.
+I spent summer of 2020 working as a backend developer. I conceptualized a solid schema design with future scalability in mind, and engineered it through endpoints in Flask, using JSON and MySQL to work seemlessly with the Figma-designed front end.<br>The latter half comprised of realizing financial trading methodologies to Python code, where I led the translation of trading strategies like Statistical Arbitrage and Mean Reversion as a part-time quant developer. These were back-tested on 5 years of daily trade data from YahooFinance API resulting in gains of up to 5.76% over the naive approach.<br>By the end of this internship, my team and I were able to successfully create a quant trading platform for first-time investors to learn market strategies and apply them using pre-coded algorithms on S&P 500 stocks (paper trade) in real-time.
 
 -----
