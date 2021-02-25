@@ -13,6 +13,7 @@ name                     : &name "Shashank Satish Damodaran"
 description              : &description "Master's in Computer Science student at Northwestern University"
 url                      : https://shawshank-cs.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
+logo                     : "/images/profile.jpg?raw=true"
 repository               : "shawshank-cs/shawshank-cs.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -83,8 +84,8 @@ author:
   name             : "Shashank Satish"
   avatar           : "profile.jpg"
   bio              : "Master's in Computer Science at Northwestern University"
-  location         : "Chicago, IL"
-  employer         :
+  location         : "Evanston, IL"
+  employer         : "Institute for Policy Research"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?user=nLvWq7YAAAAJ&hl=en&oi=ao"
   email            : "shashank-satish-d@u.northwestern.edu"
@@ -94,12 +95,12 @@ author:
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "shashank.satish.d"
   foursquare       :
   github           : "shawshank-cs"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "_shawshank._"
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "shashank-satish-d"
@@ -266,7 +267,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/Chicago # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
